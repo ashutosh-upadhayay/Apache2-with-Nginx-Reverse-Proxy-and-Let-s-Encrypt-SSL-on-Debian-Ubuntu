@@ -234,4 +234,4 @@ sudo systemctl restart nginx
 That's it! You have successfully set up Apache2 with Nginx as a reverse proxy and secured your site with Let's Encrypt SSL certificates on Debian or Ubuntu. You can now deploy your web applications and enjoy the benefits of this configuration.
 
 ## Credits
-**Volkan Sah**
+**Ashutosh Upadhayay**
